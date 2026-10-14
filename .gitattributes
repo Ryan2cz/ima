@@ -1,0 +1,3 @@
+*.html -text
+*.yaml text eol=lf
+*.md text eol=lf
